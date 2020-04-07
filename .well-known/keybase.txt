@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/pavlospt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://pavlospt.com
+  * I am pavlospt (https://keybase.io/pavlospt) on keybase.
+  * I have a public key with fingerprint 244D DE0D DDFA C876 BC01  B57F CCAE 488E BD23 FA64
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01010545d2f1303c1f18d419d93cb2a75d2013c453751cbb16ef06162a442a4c03100a",
+            "fingerprint": "244dde0dddfac876bc01b57fccae488ebd23fa64",
+            "host": "keybase.io",
+            "key_id": "ccae488ebd23fa64",
+            "kid": "01010545d2f1303c1f18d419d93cb2a75d2013c453751cbb16ef06162a442a4c03100a",
+            "uid": "0832e9924ba0b0aaf6886ffd9e1f2119",
+            "username": "pavlospt"
+        },
+        "service": {
+            "hostname": "pavlospt.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1478017795,
+    "expire_in": 157680000,
+    "prev": "dbea470d53e5866c6f0d76bc5f8d10fac6964c75b5709453d9eae0bf0b7dda47",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJbSBVBGD6mdlEqkZBAJVrRsExm9r5H6IKSZiWh3QzlsLszq6vHs+vZ
+9eRBJFFUEiLR0ISwgiLsoatoL5WpGZkPJvXQQxkJdpMUzYqSbNbqJXpshmGY//++
+b/7b4OpQV0RI5fGF9rjZMhzy+H5bhevI+oHQKkoxUJByV1GleOnCXoQt21OqI8pN
+AUg2x3KI1iADGBVqUEQslJDEqAotC8QBIKOyHCNwUFUUyGMN8JCnZZYlRwUMBECm
+UihN9xVhv+nXfTaRpVkWIQwQQpqsigKvqAAqnKCpqoxZUcQKohlN5llCLDYsh0GC
+U2QLp+oGsZGHZym8f+D/c9wVv+REhsaSRLOKDBQgyxovirymIQlDjYZQcoAW9vvk
+MkzQphzwGpZpU9UpFLEGdBU7hXUy+QuRqhplhGv6DdtQDS/xFNu26XaIdtB0kMew
+4vmt4VF0HyJlJIQA9lu64aPckCBVW3dEISuIAAqCxKVQuNLU/dijOwhO4EVAlvMN
+DhBJpGCZFQDiGMyJPK/yGkBOCzhNRBCQhvASz6oCRxoCJFIhkqWMgaIBRUCIMCkn
+q3KfQblZEqZcRCQtvcgn2xV+TFX39xWEuUIiXMvDlznj5YpYFfVn6OrFla7BnJdJ
+M6dO3p3d8a424uyJ0Zbm/RuHghOFly5WPoK9qTc2XW4qeZLdOlF97UBWTLDD8sY3
+jMzftRaZVvN85OwMfXlPO511M3rFQ6u8Ln9+Ki7/TujwoTcXCn7cTnqRsSF63+LC
+vS+Fw+7NMfXnamrX9jaJ/ZdyGyczGu4M5hePpydsP+9e9nrrmanup41bdndMXn21
+7q10ZexDsMF9oCuxKSft85brlc2d9eFrChqTp32xX4cn+/LNyG2JeXXZga6D3/aO
+peeFHW32zCT3jN0aqDg91/t86HBbQu34dOfHXWlRhblhD2Jza3FLZrC8Jp7ZqXSP
+zPVIrsxnQsko9T33fbv3009LIUPJ
+=hPhV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pavlospt
+
+==================================================================
